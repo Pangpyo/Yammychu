@@ -1,7 +1,3 @@
-# 2팀. YammyChu
-
-배포 주소: http://yammychu3-env.eba-qj4ecu99.ap-northeast-2.elasticbeanstalk.com/
-
 # YAMMYCHU
 
 # 웹사이트 주소
